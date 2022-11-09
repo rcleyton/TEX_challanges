@@ -4,16 +4,16 @@
 
 ### Fase 1:
 
-- [ ] Criar um array dinâmico com três posições [2, 1, 2]
-- [ ] Criar uma iteração que retorne números aleatórios entre 1 e 3
-- [ ] A cada retorno, altere o valor do array respectivamente
+- [X] Criar um array dinâmico com três posições [2, 1, 2]
+- [X] Criar uma iteração que retorne números aleatórios entre 1 e 3
+- [X] A cada retorno, altere o valor do array respectivamente
 
 ### Fase 2:
 
-- [ ] Utilize as linhas já codificadas e insira em uma função
-- [ ] Criar verificação que identifica se os números do array são iguais
-- [ ] Se sim, escreva 'Porta 1: aberta'
-- [ ] Se não, escreva 'Tente de novo'
+- [X] Utilize as linhas já codificadas e insira em uma função
+- [X] Criar verificação que identifica se os números do array são iguais
+- [X] Se sim, escreva 'Porta 1: aberta'
+- [X] Se não, escreva 'Tente de novo'
 
 ### Fase 3:
 
